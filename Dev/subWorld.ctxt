@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=width\ height\ cellSize
+comment0.target=subWorld(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ subWorld.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ hud()
+numComments=2
